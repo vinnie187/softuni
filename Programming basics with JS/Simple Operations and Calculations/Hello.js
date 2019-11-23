@@ -1,8 +1,7 @@
-function solve(input) {
+function hello(input) {
     let name = input.shift();
-    let output = 'Hello, ';
-    let exclamation = '!';
-    console.log(output + name + exclamation);
+    let age = input.shift();
+    console.log(`Hello,my name is ${name} and I am ${age} years old!`);
 }
 
-solve ( [ 'Vinnie' ] ) 
+hello ( [ 'Vinnie', '30' ] ) 
