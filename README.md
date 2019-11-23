@@ -1,2 +1,2 @@
-# softuni
-Softuni Basics JS
+# SoftUni
+SoftUni Basics JS
