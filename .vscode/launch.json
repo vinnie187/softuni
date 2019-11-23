@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/Programming basics with JS/Simple Operations and Calculations/Hello.js"
+            "program": "${workspaceFolder}/Programming basics with JS/Simple Operations and Calculations/solve.js"
         }
     ]
 }
